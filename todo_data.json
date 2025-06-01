@@ -1,0 +1,10 @@
+[
+    {
+        "Task": "read a book",
+        "Status": "Done"
+    },
+    {
+        "Task": "Meditate 5 min",
+        "Status": "Pending"
+    }
+]
